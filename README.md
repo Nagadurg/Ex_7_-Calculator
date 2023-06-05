@@ -313,10 +313,13 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
+
 <img width="179" alt="image" src="https://github.com/Nagadurg/Ex_7_-Calculator/assets/94185707/dd637058-f9b4-4539-a3a3-069a513a6793">
 
-<img width="169" alt="image" src="https://github.com/Nagadurg/Ex_7_-Calculator/assets/94185707/0fd5c2fc-dd43-4e60-9d06-23d0d11c18ef">
 
+
+
+<img width="169" alt="image" src="https://github.com/Nagadurg/Ex_7_-Calculator/assets/94185707/0fd5c2fc-dd43-4e60-9d06-23d0d11c18ef">
 
 
 
